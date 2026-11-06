@@ -1,0 +1,85 @@
+Salidas pseudocódigos.
+
+CalificarNúmero.psc
+
+*** Ejecución Iniciada. ***
+> 5
+Positivo
+*** Ejecución Finalizada. ***
+
+*** Ejecución Iniciada. ***
+> -10
+Negativo
+*** Ejecución Finalizada. ***
+
+*** Ejecución Iniciada. ***
+> 0
+Cero
+*** Ejecución Finalizada. ***
+
+EdadEnDias.psc
+
+*** Ejecución Iniciada. ***
+Ingresa tu edad (en años)
+> 20
+Tu edad en días es 7300
+*** Ejecución Finalizada. ***
+
+*** Ejecución Iniciada. ***
+Ingresa tu edad (en años)
+> 18
+Tu edad en días es 6570
+*** Ejecución Finalizada. ***
+
+Propinas.psc
+
+*** Ejecución Iniciada. ***
+ingresa la cuenta:
+> 120000
+ingresa el % de propina:
+> 10
+cuantas personas son?
+> 4
+la propina es 12000, el total es 132000, cada uno paga 33000
+*** Ejecución Finalizada. ***
+
+
+*** Ejecución Iniciada. ***
+ingresa la cuenta:
+> 150000
+ingresa el % de propina:
+> 15
+cuantas personas son?
+> 5
+la propina es 22500, el total es 172500, cada uno paga 34500
+*** Ejecución Finalizada. ***
+
+proimedioNotas.psc
+
+*** Ejecución Iniciada. ***
+> 4
+> 3.5
+> 4.5
+Promedio es 4
+*** Ejecución Finalizada. ***
+
+*** Ejecución Iniciada. ***
+> 3
+> 3
+> 4
+Promedio es 3.3333333333
+*** Ejecución Finalizada. ***
+
+Saludo.psc
+
+*** Ejecución Iniciada. ***
+Cómo te llamas?
+> Juan Jose
+Hola Juan Jose. Bienvenido a Algoritmia
+*** Ejecución Finalizada. ***
+
+*** Ejecución Iniciada. ***
+Cómo te llamas?
+> Pedrito
+Hola Pedrito. Bienvenido a Algoritmia
+*** Ejecución Finalizada. ***
